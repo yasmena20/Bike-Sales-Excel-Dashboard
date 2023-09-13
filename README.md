@@ -1,4 +1,4 @@
-# Bike-Sales-Excel-Dashboard
+# Bike Sales Excel Dashboard
 This is a pure Microsoft Excel project to practice my excel skills.
 
 This dashboard will help the company to understand thier bike sales from different aspects so they can take decisions to achieve more sales.
